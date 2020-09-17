@@ -1,3 +1,8 @@
+## About
+
+* [LinkedIn](https://www.linkedin.com/in/nicolas-alvarez-9a2061112/)
+* [Kaggle Profile](https://www.kaggle.com/npa02012)
+
 ## Repos
 
 * [Kaggle Walmart Sales](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
