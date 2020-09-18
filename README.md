@@ -11,7 +11,7 @@
 ## Blog Posts
 
 * [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for (small) teams working with git.
-* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - (Incomplete) An overview on how to approach solving time series forecasting using standard machine learning packages.
+* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
 * [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - (Incomplete) Some thoughts on generating training data and creating features.
 
 
