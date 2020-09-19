@@ -5,22 +5,22 @@
 
 ## Repos
 
-* [Kaggle Walmart Sales](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
-
+* [Kaggle Walmart Sales (R)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
+* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a front-end management system (note: this is from my old Github account).
 
 ## Blog Posts
 
-* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for (small) teams working with git.
+* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
 * [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
 * [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - (Incomplete) Some thoughts on generating training data and creating features.
+* [Thread Safe Iterators (Python)](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
+* [Returning from Threads (Python)](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - (Incomplete) Ideas for situations where return values are needed from threading tasks.
 
 
 ## TODO
 
-* Organizing a Python package
 * Tkinter Interface software organization
 * Rolling mean vs. row means for time series feature creation
-* Thread-safe iterators
-* Returning values when threading
+* Organizing a Python package
 * Raspberry-pi splash screen
 * Raspberry-pi start-up program
