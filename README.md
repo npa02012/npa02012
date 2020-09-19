@@ -6,7 +6,7 @@
 ## Repos
 
 * [Kaggle Walmart Sales (R)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
-* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a front-end management system (note: this is from my old Github account).
+* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
 
 ## Blog Posts
 
