@@ -24,3 +24,4 @@
 * Organizing a Python package
 * Raspberry-pi splash screen
 * Raspberry-pi start-up program
+* R-Markdown formatting
