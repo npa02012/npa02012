@@ -7,6 +7,7 @@
 
 * [Kaggle Walmart Sales (R)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
 * [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
+* [Useful Links](https://github.com/npa02012/blog_posts/tree/master/useful_links) - A place for me to bookmark links that I use often. 
 
 ## Blog Posts
 
@@ -22,6 +23,10 @@
 * Tkinter Interface software organization
 * Rolling mean vs. row means for time series feature creation
 * Organizing a Python package
+* setup.py and manifest.in to read in png files
+* git pull and pip install from python
 * Raspberry-pi splash screen
+* Raspberry-pi HDMI External Monitor
 * Raspberry-pi start-up program
+* Useful RBP articles
 * R-Markdown formatting
