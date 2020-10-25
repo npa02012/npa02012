@@ -11,12 +11,14 @@
 
 ## Blog Posts
 
+* **Machine Learning**
+	* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
+	* [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - (In progress) Some thoughts on generating training data and creating features.
+* **Python Technicals**
+	* [Thread Safe Iterators (Python)](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
+	* [Returning from Threads (Python)](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - Returning values from threads.
+* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) Steps I take to make a Raspberry Pi ready to act as an embedded controller and user interface.
 * [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
-* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
-* [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - (In progress) Some thoughts on generating training data and creating features.
-* [Thread Safe Iterators (Python)](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
-* [Returning from Threads (Python)](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - (In progress) Ideas for situations where return values are needed from threading tasks.
-* [Raspberry Pi Production Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) Steps I take to make a Raspberry Pi ready for production as an embedded controller and user interface.
 
 
 ## TODO
@@ -32,3 +34,5 @@
 * Useful RBP articles
 * R-Markdown formatting
 * Updating Tkinter values with return from a thread
+* Robinhood historical portfolio + beta calculator
+* Killing threads in a ThreadPoolExecutor
