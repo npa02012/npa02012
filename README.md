@@ -17,6 +17,7 @@
 * **Python Technicals**
 	* [Thread Safe Iterators](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
 	* [Returning from Threads](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - Returning values from threads.
+	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within code.
 * [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) Steps I take to make a Raspberry Pi ready to act as an embedded controller and user interface.
 * [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
 
@@ -27,7 +28,6 @@
 * Rolling mean vs. row means for time series feature creation
 * Organizing a Python package
 * setup.py and manifest.in to read in png files
-* git pull and pip install from python
 * Raspberry-pi splash screen
 * Raspberry-pi HDMI External Monitor
 * Raspberry-pi start-up program
