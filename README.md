@@ -18,7 +18,8 @@
 	* [Thread Safe Iterators](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
 	* [Returning from Threads](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - Returning values from threads.
 	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within code.
-* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) Steps I take to make a Raspberry Pi ready to act as an embedded controller and user interface.
+* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - (In progress) Steps to setup Kubernetes to run on AWS EC2 instances.
+* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 * [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
 
 
