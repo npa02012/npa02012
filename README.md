@@ -3,27 +3,29 @@
 * [LinkedIn](https://www.linkedin.com/in/nicolas-alvarez-9a2061112/)
 * [Kaggle Profile](https://www.kaggle.com/npa02012)
 
-## Repos
+## Posts
 
-* [Kaggle Walmart Sales (R)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to the a Kaggle Data Science competition which involved time-series forecasting.
-* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
-* [Useful Links](https://github.com/npa02012/blog_posts/tree/master/useful_links) - A place for me to bookmark links that I use often. 
-
-## Blog Posts
-
+* **Kubernetes + Spark**
+	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
+	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
+	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
 * **Machine Learning**
+	* [Kaggle Walmart Sales (Repo)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to a Kaggle Data Science competition which involved time-series forecasting.
+	* [Kaggle Forecasting Script](https://www.kaggle.com/npa02012/ceshine-s-lgbm-starter-in-r-lb-0-529) - A script I made public during a competition to forecast grocery sales.
 	* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
 	* [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - Some thoughts on generating training data and creating features.
 * **Python Technicals**
 	* [Thread Safe Iterators](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
 	* [Returning from Threads](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - Returning values from threads.
-	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within code.
-* **Kubernetes + Spark**
-	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
-	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
-	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
-* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
-* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
+	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within Python code.
+* **Other**
+	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
+	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
+	* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
+
+## Other
+* [Useful Links](https://github.com/npa02012/blog_posts/tree/master/useful_links) - A place for me to bookmark links that I use often.
+* [Useful Commands](https://github.com/npa02012/blog_posts/tree/master/useful_commands) - Commands that I want to remember.
 
 
 ## TODO
