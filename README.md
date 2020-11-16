@@ -20,7 +20,8 @@
 	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within code.
 * **Kubernetes + Spark**
 	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
-	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - (In Progress) Steps to get Spark jobs running on a K8s cluster.
+	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
+	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
 * [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 * [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
 
