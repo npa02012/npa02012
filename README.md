@@ -23,9 +23,6 @@
 	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
 	* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
 
-## Other
-* [Useful Links](https://github.com/npa02012/blog_posts/tree/master/useful_links) - A place for me to bookmark links that I use often.
-* [Useful Commands](https://github.com/npa02012/blog_posts/tree/master/useful_commands) - Commands that I want to remember.
 
 
 ## TODO
