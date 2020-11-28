@@ -5,7 +5,7 @@
 
 ## Posts
 
-* **Kubernetes + Spark**
+* **EC2 / Kubernetes / Spark**
 	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
 	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
 	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
