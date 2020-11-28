@@ -7,9 +7,9 @@
 
 * **EC2 / Kubernetes / Spark**
 	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
+	* [Spark with Scala](https://github.com/npa02012/blog_posts/tree/master/spark_scala) - Build and locally run a Spark application written in Scala.
 	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
 	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
-	* [Spark with Scala](https://github.com/npa02012/blog_posts/tree/master/spark_scala) - Build and run a Spark application written in Scala.
 * **Machine Learning**
 	* [Kaggle Walmart Sales (Repo)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to a Kaggle Data Science competition which involved time-series forecasting.
 	* [Kaggle Forecasting Script](https://www.kaggle.com/npa02012/ceshine-s-lgbm-starter-in-r-lb-0-529) - A script I made public during a competition to forecast grocery sales.
