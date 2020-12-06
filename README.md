@@ -9,7 +9,7 @@
 	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
 	* [Spark with Scala](https://github.com/npa02012/blog_posts/tree/master/spark_scala) - Build and locally run a Spark application written in Scala.
 	* [Running Spark on K8s](https://github.com/npa02012/blog_posts/tree/master/spark_on_k8s) - Get a Spark job running on a K8s cluster.
-	* [PySpark on K8s](https://github.com/npa02012/blog_posts/tree/master/pyspark_on_k8s) - (In Progress) Build a more robust application with PySpark on a K8s cluster.
+	* [PySpark S3 Data](https://github.com/npa02012/blog_posts/tree/master/pyspark_s3) - Configure a PySpark application to have access to data in S3.
 	* [EC2 Jupyter Notebook](https://github.com/npa02012/blog_posts/tree/master/ec2_jupyter) - Run a jupyter server on EC2 and connect to it from your desktop.
 * **Machine Learning**
 	* [Kaggle Walmart Sales (Repo)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to a Kaggle Data Science competition which involved time-series forecasting.
