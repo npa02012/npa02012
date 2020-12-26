@@ -28,23 +28,3 @@
 	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
 	* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
-
-
-
-## TODO
-
-* Tkinter Interface software organization
-* Rolling mean vs. row means for time series feature creation
-* Organizing a Python package
-* setup.py and manifest.in to read in png files
-* Raspberry-pi splash screen
-* Raspberry-pi HDMI External Monitor
-* Raspberry-pi start-up program
-* Useful RBP articles
-* R-Markdown formatting
-* Updating Tkinter values with return from a thread
-* Robinhood historical portfolio + beta calculator
-* Killing threads in a ThreadPoolExecutor
-* 2 Plots, one graph (R)
-* xtable in RMD
-* Embedded Programming basics
