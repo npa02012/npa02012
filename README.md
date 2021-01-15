@@ -25,6 +25,7 @@
 * **Useful Commands and Snippets**
 	* [Command-line tools](https://github.com/npa02012/blog_posts/tree/master/useful_shell): Useful commands for a variety of command-line tools. 
 	* [S3 Interaction](https://github.com/npa02012/blog_posts/tree/master/useful_s3): Useful commands and Python code for interacting with S3 buckets.
+	* [Basic Python Help](https://github.com/npa02012/blog_posts/blob/master/python_nbs/simple_python.ipynb): Some code-snippets showing basic Python functionality.
 * **Other**
 	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
