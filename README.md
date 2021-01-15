@@ -15,7 +15,7 @@
 * **Machine Learning**
 	* [Kaggle Walmart Sales (Repo)](https://github.com/npa02012/kaggle_walmart_sales) - My solution to a Kaggle Data Science competition which involved time-series forecasting.
 	* [Kaggle Forecasting Script](https://www.kaggle.com/npa02012/ceshine-s-lgbm-starter-in-r-lb-0-529) - A script I made public during a competition to forecast grocery sales.
-	* [Kaggle Riiid (Repo)](https://github.com/npa02012/kaggle_riiid) - Some takeaways from participating in a competition.
+	* [Kaggle Riiid (Repo)](https://github.com/npa02012/kaggle_riiid) - Some takeaways I had after participating in a competition to predict student learning outcomes.
 	* [Time Series Forecasting](https://github.com/npa02012/blog_posts/tree/master/time_series) - An overview on how to approach solving time series forecasting using standard machine learning packages.
 	* [Training Data in Time Series](https://github.com/npa02012/blog_posts/tree/master/ts_training_data) - Some thoughts on generating training data and creating features.
 * **Python Technicals**
