@@ -22,10 +22,14 @@
 	* [Thread Safe Iterators](https://github.com/npa02012/blog_posts/tree/master/thread_safe_iterator) - Code and explanation for creating thread safe iterators.
 	* [Returning from Threads](https://github.com/npa02012/blog_posts/tree/master/returning_from_threads) - Returning values from threads.
 	* [Git and Pip](https://github.com/npa02012/blog_posts/tree/master/git_pip_in_python) - How to execute git and pip commands within Python code.
+	* Notebooks:
+		* [Basic Python Help](https://github.com/npa02012/blog_posts/blob/master/python_nbs/simple_python.ipynb): Code-snippets for lists, sets, dicts, built-in methods, and more.
+		* [Complexity](https://github.com/npa02012/blog_posts/blob/master/python_nbs/complexity.ipynb): A notebook to visualize and determine function time complexity.
+		* [Numpy Basics](https://github.com/npa02012/blog_posts/blob/master/python_nbs/numpy.ipynb): Basic Numpy functions.
+		* [Binary Search Tree](https://github.com/npa02012/blog_posts/blob/master/python_nbs/bst.ipynb): A BST implementation.
 * **Useful Commands and Snippets**
 	* [Command-line tools](https://github.com/npa02012/blog_posts/tree/master/useful_shell): Useful commands for a variety of command-line tools. 
 	* [S3 Interaction](https://github.com/npa02012/blog_posts/tree/master/useful_s3): Useful commands and Python code for interacting with S3 buckets.
-	* [Basic Python Help](https://github.com/npa02012/blog_posts/blob/master/python_nbs/simple_python.ipynb): Some code-snippets showing basic Python functionality.
 * **Other**
 	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
