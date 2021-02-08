@@ -25,7 +25,6 @@
 	* Notebooks:
 		* [Basic Python Help](https://github.com/npa02012/blog_posts/blob/master/python_nbs/simple_python.ipynb): Code-snippets for lists, sets, dicts, built-in methods, and more.
 		* [Complexity](https://github.com/npa02012/blog_posts/blob/master/python_nbs/complexity.ipynb): A notebook to visualize and determine function time complexity.
-		* [Numpy Basics](https://github.com/npa02012/blog_posts/blob/master/python_nbs/numpy.ipynb): Basic Numpy functions.
 		* [Binary Search Tree](https://github.com/npa02012/blog_posts/blob/master/python_nbs/bst.ipynb): A BST implementation.
 * **Useful Commands and Snippets**
 	* [Command-line tools](https://github.com/npa02012/blog_posts/tree/master/useful_shell): Useful commands for a variety of command-line tools. 
