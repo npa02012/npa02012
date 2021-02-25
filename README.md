@@ -25,8 +25,8 @@
 	* Notebooks:
 		* [Basic Python Help](https://github.com/npa02012/blog_posts/blob/master/python_nbs/simple_python.ipynb): Code-snippets for lists, sets, dicts, built-in methods, and more.
 		* [Complexity](https://github.com/npa02012/blog_posts/blob/master/python_nbs/complexity.ipynb): A notebook to visualize and determine function time complexity.
-		* [Binary Search Tree](https://github.com/npa02012/blog_posts/blob/master/python_nbs/bst.ipynb): A BST implementation.
-		* [LeetCode Answers](https://github.com/npa02012/blog_posts/blob/master/python_nbs/leet_code.ipynb): Answers and explanation to some LeetCode problems.
+		* [Binary Search Tree](https://github.com/npa02012/blog_posts/blob/master/python_nbs/bst.ipynb): A BST implementation and answers to BST problems.
+		* [LeetCode Answers](https://github.com/npa02012/blog_posts/blob/master/python_nbs/leet_code.ipynb): Answers and explanations to LeetCode problems.
 * **Useful Commands and Snippets**
 	* [Command-line tools](https://github.com/npa02012/blog_posts/tree/master/useful_shell): Useful commands for a variety of command-line tools. 
 	* [S3 Interaction](https://github.com/npa02012/blog_posts/tree/master/useful_s3): Useful commands and Python code for interacting with S3 buckets.
