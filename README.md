@@ -34,3 +34,4 @@
 	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
 	* [Emergency Management System (Java)](https://github.com/npa1994/351-EMS) - A simple java program to resemble a static management system. Note, this is from my old Github account.
 	* [Git Workflow](https://github.com/npa02012/blog_posts/tree/master/git_workflow) - A workflow for small teams working with git.
+	* [PyTorch Code](https://github.com/npa02012/blog_posts/blob/master/pytorch_code/kaggle_notebooks.ipynb) - Some PyTorch code I was experimenting with for Kaggle competitions.
