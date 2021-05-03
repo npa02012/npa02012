@@ -29,6 +29,7 @@
 		* [LeetCode Answers](https://github.com/npa02012/blog_posts/blob/master/python_nbs/leet_code.ipynb): Answers and explanations to LeetCode problems.
 * **Useful Commands and Snippets**
 	* [Command-line tools](https://github.com/npa02012/blog_posts/tree/master/useful_shell): Useful commands for a variety of command-line tools. 
+	* [Bash snippets](https://github.com/npa02012/blog_posts/tree/master/bash_notes): Some code-snippets of basic bash functionality.
 	* [S3 Interaction](https://github.com/npa02012/blog_posts/tree/master/useful_s3): Useful commands and Python code for interacting with S3 buckets.
 * **Other**
 	* [Raspberry Pi Setup](https://github.com/npa02012/blog_posts/tree/master/rbp_setup) - (In progress) How I make a Raspberry Pi ready to act as an embedded controller and user interface.
