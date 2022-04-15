@@ -5,6 +5,9 @@
 
 ## Posts
 
+* **Full Stack**
+	* [npa02012-website](https://github.com/npa02012/npa02012-website) - A repository which holds the aws-cdk code and resources to build and deploy the [www.npa02012.com](https://www.npa02012.com/) website. Infrastructure (everything) as code provides a web application which can be easily replicated, is transparent, and requires very little time to setup.
+
 * **EC2 / Kubernetes / Spark**
 	* [Kubernetes setup on AWS](https://github.com/npa02012/blog_posts/tree/master/k8s_aws_setup) - Steps to setup Kubernetes to run on AWS EC2 instances.
 	* [Spark with Scala](https://github.com/npa02012/blog_posts/tree/master/spark_scala) - Build and locally run a Spark application written in Scala.
